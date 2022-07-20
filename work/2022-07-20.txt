@@ -1,0 +1,6 @@
+empcode:XD/IND/002  work_days:21
+empcode:XD/IND/128  work_days:23
+empcode:XD/IND/141  work_days:21
+empcode:XD/IND/160  work_days:19
+empcode:XD/IND/1071  work_days:18
+empcode:XD/IND/4447  work_days:12
